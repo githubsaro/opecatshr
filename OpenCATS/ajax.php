@@ -1,5 +1,6 @@
 <?php
 /*
+ * for testing upload
  * CATS
  * AJAX Delegation Module
  *
